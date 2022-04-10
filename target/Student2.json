@@ -1,0 +1,13 @@
+{
+  "id" : 2,
+  "surname" : "Vlad",
+  "name" : "Stez",
+  "groups" : [ "CHINESE", "SPAIN" ],
+  "friends" : [ {
+    "id" : 1,
+    "surname" : "Vasyl",
+    "name" : "Krutov",
+    "groups" : [ "CHINESE", "ENGLISH" ],
+    "friends" : [ 2 ]
+  } ]
+}
